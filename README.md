@@ -7,8 +7,8 @@ I enjoy building software, understanding how systems work underneath, and turnin
 Currently exploring **backend engineering, AI/ML, databases, cloud computing, and distributed systems.**
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/vaibhav-6-328">
+    <img src="https://komarev.com/ghpvc/?username=vaibhav060328&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -127,9 +127,11 @@ My goal is to build systems that are not only functional, but also **scalable, m
   <a href="https://www.linkedin.com/in/vaibhav-joshi-6b8054302">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
+  <span> | </span>
   <a href="https://github.com/vaibhav060328">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
   </a>
+  <span> | </span>
   <a href="https://leetcode.com/Vaibhav2820">
     <img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode" />
   </a>
