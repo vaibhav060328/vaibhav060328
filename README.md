@@ -76,7 +76,7 @@ A full-stack management platform for student records, room allocation, fees, com
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav060328&show_icons=true&hide_border=true&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav060328&layout=compact&hide_border=true" height="170" />
 </p>
 
