@@ -1,16 +1,142 @@
-## Hi there 👋
+# 👋 Hi, I'm Vaibhav Joshi
 
-<!--
-**vaibhav060328/vaibhav060328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer • Computer Science • AI/ML
 
-Here are some ideas to get you started:
+I enjoy building software, understanding how systems work underneath, and turning ideas into working products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring **backend engineering, AI/ML, databases, cloud computing, and distributed systems.**
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vaibhav060328">GitHub</a> •
+  <a href="https://www.linkedin.com/in/vaibhav-joshi-6b8054302">LinkedIn</a> •
+  <a href="https://leetcode.com/Vaibhav2820/">LeetCode</a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+* 🎓 Computer Science student
+* 💻 Interested in software engineering and backend development
+* 🤖 Exploring AI/ML, LLMs and RAG systems
+* ☁️ Learning cloud infrastructure and DevOps
+* 🗄️ Interested in databases and distributed systems
+* 🧩 Regularly solving DSA and algorithmic problems
+* 🚀 I like building projects that solve real problems
+
+---
+
+## 🚀 Featured Projects
+
+### 🩸 Blood Management Dashboard
+
+A full-stack platform for connecting people with blood donors and managing blood organizations.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+---
+
+### 🏠 Hostel Management System
+
+A full-stack management platform for student records, room allocation, fees, complaints and maintenance.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+---
+
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,sql" />
+</p>
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav060328&layout=compact&hide_border=true" height="170" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+</p>
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Operating Systems
+Database Internals
+Distributed Systems
+System Design
+Cloud Architecture
+Machine Learning
+```
+
+---
+
+## 📈 What I'm Working Toward
+
+Building stronger foundations in **software engineering and systems**, while continuing to explore **AI/ML and cloud technologies**.
+
+My goal is to build systems that are not only functional, but also **scalable, maintainable and well engineered.**
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/vaibhav-joshi-6b8054302">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/vaibhav060328">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
+  </a>
+  <a href="https://leetcode.com/Vaibhav2820">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Break. Understand. Rebuild better.</i>
+</p>
