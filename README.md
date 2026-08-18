@@ -89,13 +89,13 @@ A full-stack management platform for student records, room allocation, fees, com
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vaibhav060328&hide_border=true" />
 </p>
 
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vaibhav060328/vaibhav060328/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
