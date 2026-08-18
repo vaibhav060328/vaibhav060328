@@ -7,12 +7,6 @@ I enjoy building software, understanding how systems work underneath, and turnin
 Currently exploring **backend engineering, AI/ML, databases, cloud computing, and distributed systems.**
 
 <p align="center">
-  <a href="https://github.com/vaibhav-6-328">
-    <img src="https://komarev.com/ghpvc/?username=vaibhav060328&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/vaibhav060328">GitHub</a> •
   <a href="https://www.linkedin.com/in/vaibhav-joshi-6b8054302">LinkedIn</a> •
   <a href="https://leetcode.com/Vaibhav2820/">LeetCode</a>
@@ -123,17 +117,15 @@ My goal is to build systems that are not only functional, but also **scalable, m
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/vaibhav-joshi-6b8054302">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-joshi-6b8054302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
   </a>
-  <span> | </span>
   <a href="https://github.com/vaibhav060328">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile?style=flat-square&logo=github&logoColor=white&labelColor=181717&color=181717" />
   </a>
-  <span> | </span>
-  <a href="https://leetcode.com/Vaibhav2820">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode" />
+  <a href="https://leetcode.com/Vaibhav2820/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile?style=flat-square&logo=leetcode&logoColor=white&labelColor=FFA116&color=FFA116" />
   </a>
 </p>
 
